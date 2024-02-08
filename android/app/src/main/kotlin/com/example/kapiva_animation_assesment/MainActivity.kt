@@ -1,4 +1,4 @@
-package com.example.kapiva_animation_assesment
+package com.techyhacky.space_animation
 
 import io.flutter.embedding.android.FlutterActivity
 

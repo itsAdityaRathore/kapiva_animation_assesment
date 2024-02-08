@@ -1,6 +1,6 @@
 {
-    "name": "kapiva_animation_assesment",
-    "short_name": "kapiva_animation_assesment",
+    "name": "space_animation",
+    "short_name": "space_animation",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="kapiva_animation_assesment"
+        android:label="space_animation"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

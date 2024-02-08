@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:kapiva_animation_assesment/controller/logo_controller.dart';
+import 'package:space_animation/controller/logo_controller.dart';
+import 'package:space_animation/view/screens/index.dart';
 import 'package:provider/provider.dart';
-
-import 'view/screens/logo_screen.dart';
 
 void main() {
   runApp(
@@ -20,7 +19,7 @@ class MyApp extends StatelessWidget {
         child: const MaterialApp(
           debugShowCheckedModeBanner: false,
           title: 'Aditya Animation Assignment',
-          home: LogoScreen(),
+          home: SpaceScreen(),
         ));
   }
 }

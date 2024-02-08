@@ -1,4 +1,4 @@
-import 'package:kapiva_animation_assesment/utils/constants.dart';
+import 'package:space_animation/utils/constants.dart';
 
 class LogoModel {
   bool isRotating = false;

@@ -1,3 +1,3 @@
-# kapiva_animation_assesment
+# space_animation
 
 A new Flutter project.

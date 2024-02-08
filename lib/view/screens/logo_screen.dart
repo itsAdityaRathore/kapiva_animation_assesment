@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:kapiva_animation_assesment/view/screens/space_screen.dart';
+import 'package:space_animation/view/screens/space_screen.dart';
 import 'package:provider/provider.dart';
 
 import '../../controller/logo_controller.dart';

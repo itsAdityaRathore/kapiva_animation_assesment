@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:kapiva_animation_assesment/controller/logo_controller.dart';
+import 'package:space_animation/controller/logo_controller.dart';
 import 'package:provider/provider.dart';
 
 class AnimatedSpace extends StatefulWidget {

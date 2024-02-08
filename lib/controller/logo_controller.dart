@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:kapiva_animation_assesment/model/logo_model.dart';
+import 'package:space_animation/model/logo_model.dart';
 
 class LogoController extends ChangeNotifier {
   final LogoModel _logoModel = LogoModel();
